@@ -16,4 +16,13 @@
 <p> 불필요한 내용 추가 </p>
 
 </body>
+
+<script>
+var msg = "dddd";
+if(msg != ""){
+	alert(msg);
+}
+
+</script>
+
 </html>
